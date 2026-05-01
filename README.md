@@ -4,6 +4,8 @@
 
 ---
 
+[![Live Site](https://img.shields.io/badge/Live%20Audit-View%20Now-amber?style=for-the-badge)](https://sxwik.github.io/rothschild-financial-audit/)
+
 ##  Overview
 
 This project is a forensic-style financial analysis of the Rothschild family.
